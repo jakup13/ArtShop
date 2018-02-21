@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style of images / icons -->
+    <style name="icons">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/marg_top</item>
+        <item name="android:layout_marginRight">@dimen/marg_right</item>
+    </style>
+    <style name="icons_small">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/marg_top</item>
+        <item name="android:layout_marginRight">@dimen/marg_right</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+    <style name="icons_small_land">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/marg_top</item>
+        <item name="android:layout_marginRight">@dimen/marg_right_land</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+    <style name="icons_land">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/marg_top</item>
+        <item name="android:layout_marginRight">@dimen/marg_right_land</item>
+    </style>
+
+</resources>

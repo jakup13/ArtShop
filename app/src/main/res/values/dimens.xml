@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_padding">20dp</dimen>
+    <dimen name="text_padding_land">10dp</dimen>
+    <dimen name="big_text">48sp</dimen>
+    <dimen name="med_text1">24sp</dimen>
+    <dimen name="med_text2">16sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="marg_bot">12dp</dimen>
+    <dimen name="marg_bot_land">10dp</dimen>
+    <dimen name="marg_top">12dp</dimen>
+    <dimen name="marg_top_land">10dp</dimen>
+    <dimen name="marg_right">12dp</dimen>
+    <dimen name="marg_right_land">8dp</dimen>
+    <dimen name="marg_name">32dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+</resources>

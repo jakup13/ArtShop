@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Shop</string>
+    <string name="shop_name">Art Shop</string>
+    <string name="slogan">Everything (not only) for artists</string>
+    <string name="address">3600 S El Camino Real,\nSan Mateo, CA 94402</string>
+    <string name="address_land">3600 S El Camino Real, San Mateo, CA 94402</string>
+    <string name="phone">442&#8211;873&#8211;2104</string>
+    <string name="email_address">artshop@email.com</string>
+    <string name="website"><a href="http://www.google.com">www.artshop.com</a></string>
+    <string name="info">With us, every artist will find \neverything you need \nfor a free creative process \n- from pencil to success.</string>
+</resources>
